@@ -1,3 +1,3 @@
 # sysmon
 
-Various sysmon configuraions
+Various sysmon configurations
