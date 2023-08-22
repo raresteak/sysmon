@@ -1,5 +1,6 @@
 <!-- DNS Only Configuration -->
 <!-- DOH will hide queries from sysmon -->
+<!--    Disable DOH in a few browers dns-only-sysmon-disable-doh-browsers.reg -->
 <Sysmon schemaversion="4.90">
  <EventFiltering>
  <!-- https://www.whatsupgold.com/blog/how-to-tune-windows-system-monitor-sysmon#:~:text=We%20are%20going%20to%20exclude%20any%20process%20create,exclude%20by%20integrity%20level%20of%20the%20executing%20process. -->
